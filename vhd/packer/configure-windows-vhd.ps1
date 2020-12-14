@@ -347,6 +347,3 @@ switch ($env:ProvisioningPhase) {
         exit 1
     }
 }
-
-
-
